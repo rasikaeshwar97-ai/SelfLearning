@@ -1,0 +1,15 @@
+{
+	"name": "adfazrasikaproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "54d69f72-56de-4d6e-8ae0-e8ed4f2ac9e3",
+		"tenantId": "8d1d1db9-f09a-450a-aca2-87ba40749e79"
+	}
+}
